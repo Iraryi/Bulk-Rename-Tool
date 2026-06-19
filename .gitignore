@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Local test data
+.DS_Store
+Thumbs.db
+
+# App runtime data
+BulkRenameData/
+portable.mode
+
